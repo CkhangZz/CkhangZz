@@ -8,9 +8,11 @@
 
 ###
 
-<h3 align="right"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5F7&width=435&lines=Welcome+to+my+GitHub!;I+from+Vietnam!" alt="Typing SVG" /></a></h3>
+<h2 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5F7&width=435&lines=Welcome+to+my+GitHub!;I+from+Vietnam!" alt="Typing SVG" /></a></h2>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <a href="https://www.facebook.com/Yunari06" target="_blank">
@@ -26,13 +28,13 @@
 
 <br clear="both">
 
-<p align="left">About me ✨</p>
+<h2 align="left">About me ✨</h2>
 
 ###
 
 <br clear="both">
 
-<p align="left">Hello World!!</p>
+<p align="left">• 🎀 I'm Vietnamese, and I love anime, video editing, and coding.<br><br>• 💻 I develop Discord bots using Python.<br><br>• ✂️ I often edit videos using After Effect and CapCut.<br><br>• 🌸 I'm always learning and creating cute and useful things for the community.<br><br>• 🎮 My favorite games are Minecraft and Wuthering Waves.</p>
 
 ###
 
