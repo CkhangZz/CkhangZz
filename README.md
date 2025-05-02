@@ -4,6 +4,10 @@
 
 ###
 
+<h3 align="center"><p align="center"><br>  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5F7&width=435&lines=Welcome+to+my+GitHub!;I+from+Vietnam!" alt="Typing SVG" /><br></p></h3>
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -14,12 +18,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<h3 align="center"><p align="center"><br>  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5F7&width=435&lines=Welcome+to+my+GitHub!;I+from+Vietnam!" alt="Typing SVG" /><br></p></h3>
 
 ###
 
