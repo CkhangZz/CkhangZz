@@ -17,7 +17,9 @@
 
 ###
 
-<h2 align="center"><p align="center"><br>  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5F7&width=435&lines=Welcome+to+my+GitHub!;I+from+Vietnam!" alt="Typing SVG" /><br></p></h2>
+<br clear="both">
+
+<h3 align="center"><p align="center"><br>  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5F7&width=435&lines=Welcome+to+my+GitHub!;I+from+Vietnam!" alt="Typing SVG" /><br></p></h3>
 
 ###
 
@@ -25,7 +27,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">🌐 **Connect with Me:**<br><br>- 🌐 **Website:** [Yunari](https://yourwebsite.com)<br>- 💬 **Discord:** [Veloria](https://discord.gg/w9M6YBWdSk)<br>- ▶️ **YouTube:** [@Yunari](https://youtube.com/@Yunari) / [@yunariMusic](https://youtube.com/@YunariMusic)<br>- 🦩 **facebook:** [@Yunari](https://www.facebook.com/Yunari06)</p>
 
 ###
 
