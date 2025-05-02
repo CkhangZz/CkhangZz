@@ -2,17 +2,15 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="http://cutecafe.art/wp-content/uploads/2023/07/71070866d7.gif"  />
-</div>
-
-###
-
-<h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5F7&width=435&lines=Welcome+to+my+GitHub!;I+from+Vietnam!" alt="Typing SVG" /></a></h3>
-
-###
-
 <br clear="both">
+
+<img align="left" height="200" src="http://cutecafe.art/wp-content/uploads/2023/07/71070866d7.gif"  />
+
+###
+
+<h3 align="right"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5F7&width=435&lines=Welcome+to+my+GitHub!;I+from+Vietnam!" alt="Typing SVG" /></a></h3>
+
+###
 
 <div align="left">
   <a href="https://www.facebook.com/Yunari06" target="_blank">
@@ -26,7 +24,15 @@
 
 ###
 
-<p align="left">About me</p>
+<br clear="both">
+
+<p align="left">About me ✨</p>
+
+###
+
+<br clear="both">
+
+<p align="left">Hello World!!</p>
 
 ###
 
