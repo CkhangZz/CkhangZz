@@ -17,7 +17,10 @@
 
 ###
 
-<h2 align="center"><h2 align="center"><code style="color:#00FFFF;">Welcome to my GitHub</code></h2></h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5F7&width=435&lines=Welcome+to+my+GitHub!;I+from+Vietnam!" alt="Typing SVG" />
+</p>
+
 
 ###
 
