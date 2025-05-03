@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Yunari , from  Vietnam!</h2>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5F7&width=435&lines=Hi+%F0%9F%91%8B!+My+name+is+Yunari" alt="Typing SVG" /></a></h2>
 
 ###
 
@@ -49,5 +49,13 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=CkhangZz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CkhangZz/CkhangZz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CkhangZz/CkhangZz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CkhangZz/CkhangZz/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
