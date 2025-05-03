@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="left" height="200" src="http://cutecafe.art/wp-content/uploads/2023/07/71070866d7.gif"  />
+<img align="left" height="200" src="[http://cutecafe.art/wp-content/uploads/2023/07/71070866d7.gif](http://cutecafe.art/wp-content/uploads/2023/03/Gura02.gif)"  />
 
 ###
 
