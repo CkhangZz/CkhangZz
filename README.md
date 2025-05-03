@@ -1,4 +1,4 @@
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5F7&width=435&lines=Hi+%F0%9F%91%8B!+My+name+is+Yunari" alt="Typing SVG" /></a></h2>
+<h2 align="center">Hi 👋! My name is Yunari , from  Vietnam!</h2>
 
 ###
 
