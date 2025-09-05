@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="left" height="200" src="[http://cutecafe.art/wp-content/uploads/2023/03/Gura02.gi](https://github.com/CkhangZz/CkhangZz/blob/main/1757042945197%20(online-video-cutter.com)%20(1).mp4)"  />
+<img align="left" height="200" src=""  />
 
 ###
 
